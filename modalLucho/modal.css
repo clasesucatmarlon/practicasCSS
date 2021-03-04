@@ -1,0 +1,37 @@
+/* CSS modal */
+
+.header {
+    border-bottom: 2px solid #893c7d;
+    margin-bottom: 3rem;
+}
+
+.logo {
+    width: 80px;
+    height: 60px;
+    margin-bottom: 10px;
+}
+
+.botonera-group {
+    width: 50%;
+}
+
+.labelF {
+    font-size: .75rem;
+}
+
+button {
+    background: white;
+    padding: 0;
+    border: 1px solid #ced4da;
+    font-size: .75rem;
+}
+
+button:hover {
+    background: #893c7d;
+    color: white;
+}
+
+button p {
+    margin: 0;
+    padding: 0px 18px;
+}
